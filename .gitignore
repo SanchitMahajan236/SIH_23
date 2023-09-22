@@ -1,0 +1,12 @@
+# Node modules
+*/node_modules/*
+
+# Backend Virtual Environment
+*/VirtualEnv/*
+
+# Python Cache
+*/routes/__pycache__/*
+*/__pycache__/*
+
+# Env files
+.env
