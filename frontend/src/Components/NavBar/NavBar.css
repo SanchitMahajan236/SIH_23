@@ -1,0 +1,64 @@
+.Navbar{
+    /* display: flex ;
+    flex-direction: row;
+    align-items: center ;
+    width: 100%;
+    overflow: hidden; */
+    display: flex;
+    width: 100%;
+    padding: 1rem;
+    
+}
+
+div{
+    padding: 1rem;
+}
+
+.n-left {
+    display: flex;
+}
+
+.Getting-Started{
+    color: #0F172A;
+font-size: 14px;
+font-family: Inter;
+font-weight: 500;
+line-height: 20px;
+word-wrap: break-word
+}
+
+.About{
+    color: #0F172A;
+font-size: 14px;
+font-family: Inter;
+font-weight: 500;
+line-height: 20px;
+word-wrap: break-word
+}
+
+.Shop{
+    color: #0F172A;
+font-size: 14px;
+font-family: Inter;
+font-weight: 500;
+line-height: 20px;
+word-wrap: break-word
+}
+
+.Contact{
+    color: #0F172A;
+font-size: 14px;
+font-family: Inter;
+font-weight: 500;
+line-height: 20px;
+word-wrap: break-word
+}
+
+.Search-here{
+    color: #391F1F;
+font-size: 20px;
+font-family: Orbitron;
+font-weight: 900;
+word-wrap: break-word
+
+}
